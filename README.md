@@ -33,5 +33,5 @@ This project is a beginner to intermediate SQL practice exercise built around an
 - Adding new columns like payment_mode and total_amount
 
 🔹 Files Included
-sql_Ex1_ques.sql → Contains schema + questions
-sql_Ex1_solutions.sql → Contains all query solutions
+- sql_Ex1_ques.sql → Contains schema + questions
+- sql_Ex1_solutions.sql → Contains all query solutions
