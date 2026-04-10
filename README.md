@@ -6,7 +6,7 @@ This project is a beginner to intermediate SQL practice exercise built around an
 - Created a database: practice
 - Designed an orders table with fields like:
    -- order_id, cname, pname, category, qty, price_per_unit, order_date, delivery_status
--Inserted realistic sample data for multiple customers, products, and categories.
+- Inserted realistic sample data for multiple customers, products, and categories.
 
 🔹 Key SQL Concepts Covered
 - Aggregation Functions: SUM, AVG, MAX, COUNT
